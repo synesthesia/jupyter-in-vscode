@@ -1,0 +1,5 @@
+# add the packages that aren't in anaconda
+name: test
+dependencies:
+  - keras
+  
