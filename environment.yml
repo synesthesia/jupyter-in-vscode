@@ -1,5 +1,6 @@
 # add the packages that aren't in anaconda
-name: test
-dependencies:
-  - keras
+#name: test
+#dependencies:
+#  - keras
+# if we  are using the synesthesia/dsvsc image all the above are inclsuded
   
